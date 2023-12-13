@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "riteship-crs-api-gateway-microservice",
+      "type": "com.riteship.crs.api.gateway.microservice.config.CloudConfig",
+      "sourceType": "com.riteship.crs.api.gateway.microservice.config.CloudConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "riteship-crs-api-gateway-microservice.value",
+      "type": "java.lang.String",
+      "sourceType": "com.riteship.crs.api.gateway.microservice.config.CloudConfig"
+    }
+  ],
+  "hints": []
+}
